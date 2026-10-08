@@ -1,0 +1,6 @@
+{
+  "name": "College Bus Route & Seat Management System",
+  "description": "Find your college bus route, check destination stops, and view real-time available seats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
